@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "new stre",
+      "description": "jhjk",
+      "userId": "102945950439791240236",
+      "id": 3
+    },
+    {
+      "title": "unexpected behaviour",
+      "description": "Helooo",
+      "userId": "102945950439791240236",
+      "id": 4
+    }
+  ]
+}
